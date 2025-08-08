@@ -45,7 +45,7 @@ To run the models, you can execute the Python scripts directly. Make sure you ha
   python knn_digits.py
   ```
 
-- **To run the Neural Network:**
+- **To run the Neural Network:** (n.b: you won't be able to "use" the neural network for the moment, I have only make the training part, homewer, you will be able to see the accuracy of the model, in training_accr.png)
   ```bash
   python neural_network.py
   ```
